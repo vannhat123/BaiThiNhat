@@ -1,0 +1,13 @@
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\obj\Debug\netcoreapp2.0\ExamPaperNhat.csprojAssemblyReference.cache
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\obj\Debug\netcoreapp2.0\ExamPaperNhat.csproj.CoreCompileInputs.cache
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\obj\Debug\netcoreapp2.0\ExamPaperNhat.AssemblyInfoInputs.cache
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\obj\Debug\netcoreapp2.0\ExamPaperNhat.AssemblyInfo.cs
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\bin\Debug\netcoreapp2.0\ExamPaperNhat.deps.json
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\bin\Debug\netcoreapp2.0\ExamPaperNhat.runtimeconfig.json
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\bin\Debug\netcoreapp2.0\ExamPaperNhat.runtimeconfig.dev.json
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\bin\Debug\netcoreapp2.0\ExamPaperNhat.dll
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\bin\Debug\netcoreapp2.0\ExamPaperNhat.pdb
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\obj\Debug\netcoreapp2.0\ExamPaperNhat.dll
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\obj\Debug\netcoreapp2.0\ExamPaperNhat.pdb
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\bin\Debug\netcoreapp2.0\Microsoft.Build.Tasks.v4.0.dll
+C:\Users\nhatn\RiderProjects\ExamPaperNhat\ExamPaperNhat\obj\Debug\netcoreapp2.0\ExamPaperNhat.csproj.CopyComplete
